@@ -1,0 +1,6 @@
+col = input()
+print('   _~_    ' * int(col))
+print('  (o o)   ' * int(col))
+print(' /  V  \  ' * int(col))
+print('/(  _  )\ ' * int(col))
+print('  ^^ ^^   ' * int(col))
